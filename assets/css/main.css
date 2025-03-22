@@ -3121,7 +3121,7 @@ input, select, textarea {
 				#header.alt .logo img {
 					display: block;
 					margin: 0 auto;
-					max-width: 75%;
+					max-width: 50%;
 				}
 
 		@media screen and (max-width: 1280px) {
@@ -3201,12 +3201,12 @@ input, select, textarea {
 			opacity: 0;
 		}
 
-		body.is-preload #header.alt .logo {
+		/*body.is-preload #header.alt .logo {
 			-moz-transform: scale(0.8) rotate(-30deg);
 			-webkit-transform: scale(0.8) rotate(-30deg);
 			-ms-transform: scale(0.8) rotate(-30deg);
 			transform: scale(0.8) rotate(-30deg);
-		}
+		}*/
 
 /* Nav */
 
