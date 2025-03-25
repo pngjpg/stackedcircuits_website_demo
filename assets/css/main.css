@@ -3293,11 +3293,11 @@ input, select, textarea {
 				}
 
 					#nav ul li a:hover {
-						background-color: rgba(222, 222, 222, 0.25);
+						background-color: #E4E4E4;
 					}
 
 					#nav ul li a.active {
-						background-color: #ffffff;
+						background-color: #E4E4E4;
 						box-shadow: none;
 					}
 
