@@ -1,0 +1,24 @@
+{
+    "version": "2.0.0",
+    "command": "explorer",    
+    "windows": {
+        "command": "firefox.exe"
+    },
+    "args": [
+        "index.html"
+    ],
+    "problemMatchers": [],
+    "tasks": [
+        {
+            "label": "firefox.exe",
+            "args": [
+                "index.html"
+            ],
+            "problemMatcher": [],
+            "group": {
+                "_id": "build",
+                "isDefault": false
+            }
+        }
+    ]
+}
